@@ -1,0 +1,16 @@
+.cohoi{
+    background-image: url("https://cdn.glitch.global/69efacba-148f-4665-b992-b6e6c92fd398/3bda1e23-89db-4995-b38e-0f3b75a41d8a.image.png?v=1709489758810");
+    background-position: center center;
+    padding: 100px;}
+    h1{
+      color: white;
+    }
+    p{
+      color: white;
+    }
+    button{
+      background-color: red;
+      color: white;
+      padding: 20px 15px;
+      font-size: 13px;
+    }

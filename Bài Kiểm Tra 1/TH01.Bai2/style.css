@@ -1,0 +1,43 @@
+body{
+    max-width: 600px;
+}
+h1{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight:bold;
+    font-style: normal;
+    color: black;
+}
+h2{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight:bold;
+    font-style: normal;
+    color: black; 
+}
+h3{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight:normal;
+    font-style: normal;
+    color: gray; 
+}
+h4{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight:normal;
+    font-style: normal;
+    color: gray; 
+    text-indent: 1em;
+}
+a{
+    font-family: Arial, sans-serif;
+    padding: 16px;
+    background-color: rgb(61, 152, 198);
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+    width: 100px;
+    margin: 3px;
+   
+}

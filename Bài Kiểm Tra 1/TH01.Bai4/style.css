@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(242, 242, 242);
+    }
+    .logo {
+        margin: 0 auto;
+        align-content: center;
+        display: grid;
+        place-items: center;
+      }
+      .tieude{
+        margin: 0 auto;
+        align-content: center;
+        display: grid;
+        place-items: center;
+        font-family:  Arial, sans-serif;
+      }
+    .tieude h1{
+      font-size: 50px;
+    }
+    .tieude p{
+      font-size: 20px;
+    }
+    .tieude input{
+      width: 500PX;
+      height: 70PX;
+      font-size: 20PX;
+      background-color:white;
+      border: none;
+      border-radius: 5px;
+    }
+    .tieude button{
+      width: 200PX;
+      height: 80PX;
+      font-size: 20PX;
+      color: white;
+      background-color:#0000FF;
+      border: none;
+      border-radius: 5px;

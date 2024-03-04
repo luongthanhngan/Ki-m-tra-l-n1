@@ -1,0 +1,16 @@
+body{
+    max-width: 450px;
+}
+h1{
+    font-family:sans-serif;
+}
+a{
+    padding: 5px;
+    background-color: rgb(39, 238, 69);
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    line-height: 32q;
+    font-family:  Arial, sans-serif;
+    border-radius: 3px;
+}
